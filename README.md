@@ -4,7 +4,7 @@ Real-time AI copilot for T-Mobile care agents. Listens to live conversations via
 
 ## Demo
 
-▶️ **[Watch the demo (1:47)](docs/trep-demo.mp4)**
+https://github.com/user-attachments/assets/2341c625-085e-4d1b-984f-6f20929ba2a6 
 
 ## Stack
 - **Frontend**: React + Vite + Tailwind CSS
