@@ -2,6 +2,10 @@
 
 Real-time AI copilot for T-Mobile care agents. Listens to live conversations via Deepgram, surfaces customer context, explains bill deltas, detects intent, and suggests next-best actions.
 
+## Demo
+
+▶️ **[Watch the demo (1:47)](docs/trep-demo.mp4)**
+
 ## Stack
 - **Frontend**: React + Vite + Tailwind CSS
 - **Backend**: FastAPI + Python
